@@ -10,7 +10,9 @@ This is a guide to the REORIENT (REnewable resOuRce Investment for the ENergy Tr
 - [**Setting up a model instance**](#setting-up-a-model-instance)
 - [**The functions directory**](#the-functions-directory)
 
-**NB!**: *This GitHub repo is to release an open version of the REORIENT energy model. The solution algorithms are not available in this repo. Therefore,please consider the model size when generating scenario trees (short-term and long-term)*. 
+**NB!**: *This GitHub repo is to release an open version of the REORIENT energy model. The solution algorithms are not available in this repo. Therefore,please consider the model size when generating scenario trees (short-term and long-term)*.
+
+*Please check the LICENSE before using the code.*
 
 
 ## Model development history

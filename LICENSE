@@ -56,7 +56,9 @@ this software and its associated documentation, subject to the following conditi
    Any academic use of this software, including modified versions, must include a
    citation to the following references:
 	a. Hongyu Zhang, Ignacio E. Grossmann, Ken McKinnon, Brage Rugstad Knudsen, Rodrigo Garcia Nava, Asgeir Tomasgard,
-	Integrated investment, retrofit and abandonment energy system planning with multi-timescale uncertainty using stabilised adaptive Benders decomposition, European Journal of Operational Research, Volume 325, Issue 2, 2025, Pages 261-280, ISSN 0377-2217, https://doi.org/10.1016/j.ejor.2025.04.005.
+	Integrated investment, retrofit and abandonment energy system planning with multi-timescale uncertainty using 
+   stabilised adaptive Benders decomposition, European Journal of Operational Research, Volume 325, Issue 2, 2025, Pages 261-280, ISSN 0377-2217, 
+   https://doi.org/10.1016/j.ejor.2025.04.005.
 	b. Hongyu Zhang (2025). Richardzhang0416/REORIENT_Lite, https://doi.org/10.5281/zenodo.17701723.
 
 8. No warranty and liability disclaimer
